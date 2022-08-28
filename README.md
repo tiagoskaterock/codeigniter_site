@@ -1,4 +1,4 @@
-# React Keeper App
+# Cupcake Software Website
 
 This project is made using mainly PHP with CodeIgniter and BootStrap for styles.
 
