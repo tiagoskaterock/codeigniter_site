@@ -3,7 +3,7 @@
 				<div class="row">
 					<div class="col-lg-12 text-center">
 						<div class="section-title">
-							<h2>ABOUT</h2>
+							<h2>Sobre</h2>
 							<p>A creative agency based on Candy Land, ready to boost your business with some beautifull templates. Lattes Agency is one of the best in town see more you will be amazed.</p>
 						</div>
 					</div>
@@ -13,8 +13,10 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module-about">
 							<i class="fa fa-briefcase ot-circle"></i>
-							<h3>Web Development</h3>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+							<h3>Desenvolvimento Web</h3>
+							<p>
+								Trabalhamos para oferecer o melhor serviço com a certeza do maior custo benefício.
+							</p>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -22,8 +24,10 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module-about">
 							<i class="fa fa-photo ot-circle"></i>
-							<h3>Visualisation</h3>
-							<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
+							<h3>Front End</h3>
+							<p>
+								Utilizamos as mais modernas e consolidades tecnologias para seu website dar o retorno esperado, dentre elas, HTML/CSS, JavaScript, jQuery, BootStrap.
+							</p>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -31,8 +35,10 @@
 					<div class="col-md-3 text-center">
 						<div class="mz-module-about">
 							<i class="fa fa-camera-retro ot-circle"></i>
-							<h3>Photography</h3>
-							<p>Accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+							<h3>Back End</h3>
+							<p>
+								Bancos de dados relacionais, com meio século de confiança na evoluída e estável linguagem SQL, programação PHP, com Frameworks como Laravel e CodeIgniter que aceleram o desenvolvimento e trazem mais segurança e servidor Apache com banco de dados MySQL.
+							</p>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -41,7 +47,9 @@
 						<div class="mz-module-about">
 							<i class="fa fa-cube ot-circle"></i>
 							<h3>UI/UX Design</h3>
-							<p> Itaque earum rerum hic tenetur a sapiente, ut aut reiciendis maiores</p>
+							<p>
+								Nos preocupamos com a experiência do usuário, construindo interfáceis amigáveis e fáceis de utilizar, aumentando o SEO das suas páginas, deixando seu site mais próximo do topo nos resultados de busca.								
+							</p>
 						</div>
 					</div>
 					<!-- end about module -->
@@ -54,8 +62,12 @@
 				<div class="row">
 					<div class="col-md-6">
 						<div class="skills-text">
-							<h2>WE`RE CREATIVE</h2>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.<br><br>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur?</p>
+							<h2>
+								Criatividade, confiabilidade e inovação
+							</h2>
+							<p>
+								Buscamos sempre, inovar, fazer diferente, sem perder o foco que é manter o melhor custo benifício. O equilíbrio entre a velocidade, criatividade e desejo de inovar são nosso diferencial. Sistemas totalmente responsivos, que rodam desde os menores celulares até os maiores televisores do mercado, deixando sua marca facilemte acessível ao todos, o tempo todo.
+							</p>
 						</div>
 					</div>
 					<div class="col-md-6">
@@ -75,12 +87,12 @@
 						<!-- skill bar item -->
 						<div class="skillbar-item">
 							<div class="skillbar-score">
-								<span class="score">80</span><span class="percent">%</span>
+								<span class="score">92</span><span class="percent">%</span>
 							</div>
-							<div class="skillbar" data-percent="80%">
-								<h3>Development</h3>
+							<div class="skillbar" data-percent="92%">
+								<h3>Front End</h3>
 								<div class="skillbar-bar">
-									<div class="skillbar-percent" style="width: 80%;">
+									<div class="skillbar-percent" style="width: 92%;">
 									</div>
 								</div>
 							</div>
@@ -88,12 +100,12 @@
 						<!-- skill bar item -->
 						<div class="skillbar-item">
 							<div class="skillbar-score">
-								<span class="score">85</span><span class="percent">%</span>
+								<span class="score">97</span><span class="percent">%</span>
 							</div>
-							<div class="skillbar" data-percent="85%">
-								<h3>Photography</h3>
+							<div class="skillbar" data-percent="97%">
+								<h3>Back End</h3>
 								<div class="skillbar-bar">
-									<div class="skillbar-percent" style="width: 85%;">
+									<div class="skillbar-percent" style="width: 97%;">
 									</div>
 								</div>
 							</div>
@@ -101,12 +113,12 @@
 						<!-- skill bar item -->
 						<div class="skillbar-item">
 							<div class="skillbar-score">
-								<span class="score">70</span><span class="percent">%</span>
+								<span class="score">91</span><span class="percent">%</span>
 							</div>
-							<div class="skillbar" data-percent="70%">
-								<h3>Marketing</h3>
+							<div class="skillbar" data-percent="91%">
+								<h3>UI/UX Design</h3>
 								<div class="skillbar-bar">
-									<div class="skillbar-percent" style="width: 70%;">
+									<div class="skillbar-percent" style="width: 91%;">
 									</div>
 								</div>
 							</div>
@@ -160,11 +172,11 @@
 				<div class="col-md-4">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
-							<img src="images/demo/portfolio-1.jpg" alt="img02" class="img-responsive" />
+							<img src="<?= base_url('images/demo/portfolio-1.jpg') ?>" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>Dean & Letter</h2>
 								<p>Branding, Design</p>
-								<a href="#" data-toggle="modal" data-target="#Modal-1">View more</a>
+								<a href="" data-toggle="modal" data-target="#Modal-1">View more</a>
 							</figcaption>
 						</figure>
 					</div>
@@ -174,7 +186,7 @@
 				<div class="col-md-4">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
-							<img src="images/demo/portfolio-2.jpg" alt="img02" class="img-responsive" />
+							<img src="<?= base_url('images/demo/portfolio-2.jpg') ?>" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>Startup Framework</h2>
 								<p>Branding, Web Design</p>
@@ -188,7 +200,7 @@
 				<div class="col-md-4">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
-							<img src="images/demo/portfolio-3.jpg" alt="img02" class="img-responsive" />
+							<img src="<?= base_url('images/demo/portfolio-3.jpg') ?>" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>Lamp & Velvet</h2>
 								<p>Branding, Web Design</p>
@@ -204,7 +216,7 @@
 				<div class="col-md-4">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
-							<img src="images/demo/portfolio-4.jpg" alt="img02" class="img-responsive" />
+							<img src="<?= base_url('images/demo/portfolio-4.jpg') ?>" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>Smart Name</h2>
 								<p>Branding, Design</p>
@@ -218,7 +230,7 @@
 				<div class="col-md-4">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
-							<img src="images/demo/portfolio-5.jpg" alt="img02" class="img-responsive" />
+							<img src="<?= base_url('images/demo/portfolio-5.jpg') ?>" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>Fast People</h2>
 								<p>Branding, Web Design</p>
@@ -232,7 +244,7 @@
 				<div class="col-md-4">
 					<div class="ot-portfolio-item">
 						<figure class="effect-bubba">
-							<img src="images/demo/portfolio-2.jpg" alt="img02" class="img-responsive" />
+							<img src="<?= base_url('images/demo/portfolio-2.jpg') ?>" alt="img02" class="img-responsive" />
 							<figcaption>
 								<h2>Kites & Stars</h2>
 								<p>Branding, Web Design</p>
@@ -259,25 +271,25 @@
 					<div class="col-lg-12 text-center">
 						<div class="owl-carousel">
 							<div class="item">
-								<div class="partner-logo"><img src="images/demo/partners-1.png" alt="partners"></div>
+								<div class="partner-logo"><img src="<?= base_url(); ?>images/demo/partners-1.png" alt="partners"></div>
 							</div>
 							<div class="item">
-								<div class="partner-logo"><img src="images/demo/partners-2.png" alt="partners"></div>
+								<div class="partner-logo"><img src="<?= base_url(); ?>images/demo/partners-2.png" alt="partners"></div>
 							</div>
 							<div class="item">
-								<div class="partner-logo"><img src="images/demo/partners-3.png" alt="partners"></div>
+								<div class="partner-logo"><img src="<?= base_url(); ?>images/demo/partners-3.png" alt="partners"></div>
 							</div>
 							<div class="item">
-								<div class="partner-logo"><img src="images/demo/partners-4.png" alt="partners"></div>
+								<div class="partner-logo"><img src="<?= base_url(); ?>images/demo/partners-4.png" alt="partners"></div>
 							</div>
 							<div class="item">
-								<div class="partner-logo"><img src="images/demo/partners-5.png" alt="partners"></div>
+								<div class="partner-logo"><img src="<?= base_url(); ?>images/demo/partners-5.png" alt="partners"></div>
 							</div>
 							<div class="item">
-								<div class="partner-logo"><img src="images/demo/partners-6.png" alt="partners"></div>
+								<div class="partner-logo"><img src="<?= base_url(); ?>images/demo/partners-6.png" alt="partners"></div>
 							</div>
 							<div class="item">
-								<div class="partner-logo"><img src="images/demo/partners-7.png" alt="partners"></div>
+								<div class="partner-logo"><img src="<?= base_url(); ?>images/demo/partners-7.png" alt="partners"></div>
 							</div>
 						</div>
 					</div>
@@ -299,7 +311,7 @@
 					<div class="col-md-3">
 						<div class="team-item">
 							<div class="team-image">
-								<img src="images/demo/author-2.jpg" class="img-responsive" alt="author">
+								<img src="<?= base_url(); ?>images/demo/author-2.jpg" class="img-responsive" alt="author">
 							</div>
 							<div class="team-text">
 								<h3>TOM BEKERS</h3>
@@ -314,7 +326,7 @@
 					<div class="col-md-3">
 						<div class="team-item">
 							<div class="team-image">
-								<img src="images/demo/author-6.jpg" class="img-responsive" alt="author">
+								<img src="<?= base_url(); ?>images/demo/author-6.jpg" class="img-responsive" alt="author">
 							</div>
 							<div class="team-text">
 								<h3>LINA GOSATA</h3>
@@ -329,7 +341,7 @@
 					<div class="col-md-3">
 						<div class="team-item">
 							<div class="team-image">
-								<img src="images/demo/author-3.jpg" class="img-responsive" alt="author">
+								<img src="<?= base_url(); ?>images/demo/author-3.jpg" class="img-responsive" alt="author">
 							</div>
 							<div class="team-text">
 								<h3>Larry Parker</h3>
@@ -344,7 +356,7 @@
 					<div class="col-md-3">
 						<div class="team-item">
 							<div class="team-image">
-								<img src="images/demo/author-4.jpg" class="img-responsive" alt="author">
+								<img src="<?= base_url(); ?>images/demo/author-4.jpg" class="img-responsive" alt="author">
 							</div>
 							<div class="team-text">
 								<h3>John BEKERS</h3>

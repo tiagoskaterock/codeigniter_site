@@ -7,18 +7,18 @@
 		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 		<meta name="description" content="">
 		<meta name="author" content="">
-		<link rel="icon" href="favicon.ico">
-		<title>Lattes - Onepage Multipurpose Bootstrap HTML</title>
+		<link rel="icon" href="<?= base_url('favicon.ico') ?>">
+		<title>Cupcake Software - Sistemas Web</title>
 		<!-- Bootstrap core CSS -->
-		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="<?= base_url('css/bootstrap.min.css') ?>" rel="stylesheet">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 		<!-- Custom styles for this template -->
-		<link href="css/owl.carousel.css" rel="stylesheet">
-		<link href="css/owl.theme.default.min.css"  rel="stylesheet">
-		<link href="css/style.css" rel="stylesheet">
+		<link href="<?= base_url('css/owl.carousel.css') ?>" rel="stylesheet">
+		<link href="<?= base_url('css/owl.theme.default.min.css') ?>"  rel="stylesheet">
+		<link href="<?= base_url('css/style.css') ?>" rel="stylesheet">
 		<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
 		<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-		<script src="js/ie-emulation-modes-warning.js"></script>
+		<script src="<?= base_url('js/ie-emulation-modes-warning.js') ?>"></script>
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -37,7 +37,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand page-scroll" href="#page-top"><img src="images/logo.png" alt="Lattes theme logo"></a>
+					<a class="navbar-brand page-scroll" href="#page-top"><img src="<?= base_url(); ?>images/logo.png" alt="Lattes theme logo"></a>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -46,19 +46,19 @@
 							<a href="#page-top"></a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#about">About</a>
+							<a class="page-scroll" href="#about">Sobre</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#services">Services</a>
+							<a class="page-scroll" href="#services">Serviços</a>
 						</li>
 						<li>
 							<a class="page-scroll" href="#portfolio">Portfolio</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#team">Team</a>
+							<a class="page-scroll" href="#team">Equipe</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#contact">Contact</a>
+							<a class="page-scroll" href="#contact">Contato</a>
 						</li>
 					</ul>
 				</div>
@@ -71,9 +71,9 @@
 			<div class="container">
 				<div class="slider-container">
 					<div class="intro-text">
-						<div class="intro-lead-in">Welcome To Our Studio!</div>
-						<div class="intro-heading">It's Nice To Meet You</div>
-						<a href="#about" class="page-scroll btn btn-xl">Tell Me More</a>
+						<div class="intro-lead-in">Cupcake Software!</div>
+						<div class="intro-heading">É um prazer ver vocÊ aqui!</div>
+						<a href="#about" class="page-scroll btn btn-xl">Saiba Mais</a>
 					</div>
 				</div>
 			</div>

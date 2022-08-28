@@ -15,7 +15,7 @@
 						<h4 class="modal-title" id="Modal-label-1">Dean & Letter</h4>
 					</div>
 					<div class="modal-body">
-						<img src="images/demo/portfolio-1.jpg" alt="img01" class="img-responsive" />
+						<img src="<?= base_url('images/demo/portfolio-1.jpg') ?>" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
 						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
 					</div>
@@ -35,7 +35,7 @@
 						<h4 class="modal-title" id="Modal-label-2">Startup Framework</h4>
 					</div>
 					<div class="modal-body">
-						<img src="images/demo/portfolio-2.jpg" alt="img01" class="img-responsive" />
+						<img src="<?= base_url('images/demo/portfolio-2.jpg') ?>" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
 						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
 					</div>
@@ -55,7 +55,7 @@
 						<h4 class="modal-title" id="Modal-label-3">Lamp & Velvet</h4>
 					</div>
 					<div class="modal-body">
-						<img src="images/demo/portfolio-3.jpg" alt="img01" class="img-responsive" />
+						<img src="<?= base_url('images/demo/portfolio-3.jpg') ?>" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
 						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
 					</div>
@@ -75,7 +75,7 @@
 						<h4 class="modal-title" id="Modal-label-4">Smart Name</h4>
 					</div>
 					<div class="modal-body">
-						<img src="images/demo/portfolio-4.jpg" alt="img01" class="img-responsive" />
+						<img src="<?= base_url('images/demo/portfolio-4.jpg') ?>" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
 						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
 					</div>
@@ -95,7 +95,7 @@
 						<h4 class="modal-title" id="Modal-label-5">Fast People</h4>
 					</div>
 					<div class="modal-body">
-						<img src="images/demo/portfolio-5.jpg" alt="img01" class="img-responsive" />
+						<img src="<?= base_url('images/demo/portfolio-5.jpg') ?>" alt="img01" class="img-responsive" />
 						<div class="modal-works"><span>Branding</span><span>Web Design</span></div>
 						<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
 					</div>
@@ -106,16 +106,4 @@
 			</div>
 		</div>
 
-		<!-- Bootstrap core JavaScript
-			================================================== -->
-		<!-- Placed at the end of the document so the pages load faster -->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-		<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/owl.carousel.min.js"></script>
-		<script src="js/cbpAnimatedHeader.js"></script>
-		<script src="js/theme-scripts.js"></script>
-		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-		<script src="js/ie10-viewport-bug-workaround.js"></script>
-	</body>
-</html>
+	
