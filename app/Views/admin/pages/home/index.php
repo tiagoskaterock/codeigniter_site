@@ -1,4 +1,4 @@
-<?php define('INCLUDES', 'admin/pages/index/includes/') ?>
+<?php define('INCLUDES', 'admin/pages/home/includes/') ?>
 
 <?= $this->extend('admin/layouts/default') ?>
 

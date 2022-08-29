@@ -6,7 +6,7 @@ class Admin extends BaseController
 {
     public function index()
     {
-        return view('admin/pages/index/index');
+        return view('admin/pages/home/index');
     }
 
     public function login()
