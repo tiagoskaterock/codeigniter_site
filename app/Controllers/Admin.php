@@ -9,4 +9,9 @@ class Admin extends BaseController
         return view('admin/pages/index');
     }
 
+    public function login()
+    {
+        return view('admin/pages/login');
+    }
+
 }
