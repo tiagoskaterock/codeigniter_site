@@ -1,6 +1,8 @@
 <?php 
 
-echo $this->include('website/includes/header');
+echo $this->include('admin/includes/header');
+
+echo $this->include('admin/includes/aside');
 
 if (session()->has('warning')) {
 	?>
@@ -24,5 +26,4 @@ if (session()->has('info')) {
 
 echo $this->renderSection('content');
 
-echo $this->include('website/includes/footer');
-echo $this->include('website/includes/scripts');
+echo $this->include('admin/includes/footer');
